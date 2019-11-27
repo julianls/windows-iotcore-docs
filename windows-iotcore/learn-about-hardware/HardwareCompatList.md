@@ -68,7 +68,7 @@ Looking for information about supported hardware platforms? Click [here](https:/
 > | Vodafone (Huawei) K5160 | ARM32, x64, x86 | Vodafone (Huawei) K5160 150Mbps GSM/EDGE/3G/HSPA+/LTE-CAT4 USB Mobile Broadband Modem |  | |
 > | Sierra Wireless Beam (AirCard 340U) | x64, x86 | 	Sierra Wireless Beam (AirCard 340U) 4G LTE USB Mobile Broadband Modem |  |&#10004; |
 > | Microsoft Xbox 360 Controller | ARM32 | An HID-compliant USB gamepad for Microsoft's Xbox 360 | [Robot Kit](https://microsoft.hackster.io/en-US/windowsiot/robot-kit-6dd474) |  &#10004; |
-> | [MyTeletouch](http://www.myteletouch.com/) | ARM, x32 | An HID-compliant USB wireless mouse, keyboard and gamepad |  | &#10004; |
+> | [MyTeletouch](http://www.myteletouch.net/) | ARM, x64, x86 | An HID-compliant USB wireless mouse, keyboard and gamepad |  | &#10004; |
 
 ## Other Hardware Peripherals
 
